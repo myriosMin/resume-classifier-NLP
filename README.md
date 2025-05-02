@@ -130,8 +130,8 @@ Save clean text to CSV (for both TF-IDF and BERT)
 
 ## 👤 Author
 
-\[Year 2, NLP Assignment, Diploma in AI & Data Engineering, Nanyang Polytechnic]
-**[Min Phyo Thura](https://github.com/myriosMin)**
+\*[Year 2, NLP Assignment, Diploma in AI & Data Engineering, Nanyang Polytechnic]*
+\**[Min Phyo Thura](https://github.com/myriosMin)**
 
 ---
 
